@@ -7,6 +7,7 @@ import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.layout.StackPane;
+
 import javafx.stage.Stage;
 //Nao precisa se preocupar com essa classe
 public class Main extends Application {
